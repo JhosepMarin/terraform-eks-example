@@ -1,6 +1,6 @@
 # Terraform EKS Example
 
-This repo will help you provision an EKS cluster with basic configuration with Terraform. It will also create a S3 bucket. Besides that you will find an ExpreseJS "Hello World" application that reads your name from a URL query parameter and creates a file that contains your name and stores it in the S3 bucket.
+This repo will help you provision an EKS cluster with basic configuration with Terraform. It will also create a S3 bucket. Besides that you will find an ExpressJS "Hello World" application that reads your name from a URL query parameter and creates a file that contains your name and stores it in the S3 bucket.
 
 ## Prerequisites
 
